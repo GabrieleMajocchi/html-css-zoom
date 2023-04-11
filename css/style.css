@@ -39,9 +39,20 @@ div.right{
 }
 
 .top-right{
-    background-color: black;
     width: 100vw;
     height: 30px;
     color: white;
+    justify-content: flex-end;
+    align-items: center;
+    position: fixed;
+    top: 0;
 }
 
+.bg-grey{
+    background-color: #4A4A4A;
+}
+
+.speaker, .fullscreen{
+    padding: 2px 4px;
+    margin: 3px;
+}
