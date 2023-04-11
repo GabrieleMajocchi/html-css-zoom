@@ -5,3 +5,18 @@
     box-sizing: border-box;
 }
 
+.flex{
+    display: flex;
+}
+
+.sp-bet{
+    justify-content: space-between;
+}
+
+footer{
+    background-color: #545454;
+    height: 100px;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+}
