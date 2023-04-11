@@ -16,6 +16,11 @@
 .wrap{
     flex-wrap: wrap;
 }
+
+body{
+    background-color: black;
+}
+
 footer{
     background-color: #222222;
     height: 100px;
@@ -61,10 +66,7 @@ div.right{
 }
 
 main{
-    background-color: black;
-    height: calc(100vh - 100px);
-    margin-bottom: 100px;
-    padding: 100px 100px;
+    padding: 80px 100px;
 }
 
 .partecipant{
@@ -76,7 +78,7 @@ main{
     position: absolute;
     background-color: #4a4a4ac5;
     align-items: center;
-    bottom: 0;
+    bottom: 4px;
     color: white;
     padding: 5px;
 }
