@@ -37,3 +37,11 @@ div.right{
     justify-content: center;
     align-items: center;
 }
+
+.top-right{
+    background-color: black;
+    width: 100vw;
+    height: 30px;
+    color: white;
+}
+
