@@ -63,3 +63,8 @@ main{
     margin-bottom: 100px;
     padding: 100px 100px;
 }
+
+.partecipant{
+    position: relative;
+    margin: 5px
+}
