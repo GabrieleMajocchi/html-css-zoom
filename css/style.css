@@ -9,8 +9,16 @@
     display: flex;
 }
 
-.sp-bet{
+.sp-btw{
     justify-content: space-between;
+}
+
+.icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
 
 footer{
