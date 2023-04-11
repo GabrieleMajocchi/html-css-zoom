@@ -27,6 +27,7 @@ footer{
     width: 100vw;
     position: fixed;
     bottom: 0;
+    z-index: 2;
 }
 
 .icon{
@@ -54,6 +55,7 @@ div.right{
     align-items: center;
     position: fixed;
     top: 0;
+    z-index: 1;
 }
 
 .bg-grey{
