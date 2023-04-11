@@ -68,3 +68,12 @@ main{
     position: relative;
     margin: 5px
 }
+
+.who-mic{
+    position: absolute;
+    background-color: #4a4a4ac5;
+    align-items: center;
+    bottom: 0;
+    color: white;
+    padding: 5px;
+}
