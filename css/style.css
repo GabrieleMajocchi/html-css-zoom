@@ -56,3 +56,10 @@ div.right{
     padding: 2px 4px;
     margin: 3px;
 }
+
+main{
+    background-color: black;
+    height: calc(100vh - 100px);
+    margin-bottom: 100px;
+    padding: 100px 100px;
+}
